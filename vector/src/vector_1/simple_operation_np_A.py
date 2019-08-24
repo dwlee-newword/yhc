@@ -11,7 +11,7 @@ print(vectorA + vectorB)
 
 # list와 vector는 합에서 차이가 나는 것을 볼 수 있음
 
-# vector의 단순(scala) 곱은?
+# vector의 단순 곱은?
 
 print(vectorA * 2)
 

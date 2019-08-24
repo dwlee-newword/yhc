@@ -8,7 +8,7 @@ result_list = listA + listB
 print(result_list)
 
 
-# vector 단순(scala) 곱은?
+# vector 단순 곱은?
 
 result_list = listA * 10
 print(result_list)

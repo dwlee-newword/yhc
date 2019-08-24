@@ -10,7 +10,7 @@ for a, b in zip(listA, listB):
 
 print(result_list)
 
-# vector의 단순(scala) 곱은?
+# vector의 단순 곱은?
 
 result_list = []
 
