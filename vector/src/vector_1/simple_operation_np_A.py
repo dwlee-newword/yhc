@@ -1,7 +1,7 @@
 import numpy as np
 # 수학적 연산을 하는 라이브러리
 
-# 2D array
+# 1D array
 vectorA = np.array([1, 3, 5, 7])
 vectorB = np.array([2, 4, 6, 8])
 

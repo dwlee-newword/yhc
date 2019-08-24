@@ -1,4 +1,4 @@
-# 2D list
+# 1D list
 listA = [1, 3, 5, 7]
 listB = [2, 4, 6, 8]
 
