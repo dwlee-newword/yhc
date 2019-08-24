@@ -28,3 +28,20 @@ for a, b in zip(listA, listB):
 
 print(result_list)
 
+# 두 vector의 내적(dot product)
+sum_of_multi = 0
+for res in result_list:
+    sum_of_multi = sum_of_multi + res
+    
+print(sum_of_multi)
+
+
+# 두 vector의 거리
+import math
+sum_of_distance = 0
+for a, b in zip(listA, listB):
+    sum_of_distance = sum_of_distance + math.pow(a - b, 2)
+
+distance_result = math.sqrt(sum_of_distance)
+
+print(distance_result)

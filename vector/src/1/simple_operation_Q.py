@@ -15,9 +15,11 @@ print(result_list)
 
 # 두 vector의 곱은?
 
-result_list = listA * listB
+# result_list = listA * listB
 print(result_list)
 
-# 
+# 두 vector의 내적(dot product)
+
+# 두 vector의 거리
 
 ####################################################################################################
